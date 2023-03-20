@@ -1,0 +1,4 @@
+add_subdirectory(Modeling)
+add_subdirectory(Visualization)
+add_subdirectory(DataExchange)
+add_subdirectory(Application)
